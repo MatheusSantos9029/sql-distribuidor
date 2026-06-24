@@ -16,25 +16,35 @@ Desenvolvido como parte do meu aprendizado prático em análise de dados, com fo
 - 📦 500 registros de vendas fictícios gerados automaticamente
 - 🔍 Queries SQL para análise de faturamento, produtos, clientes e vendedores
 - 📤 Exportação dos dados para CSV
-- 📊 Dashboard interativo no Power BI com 4 visuais
+- 📊 Dashboard interativo no Power BI com visuais, filtros e layout profissional
 
 ### Análises realizadas
 
 - 💰 Faturamento total
 - 📦 Faturamento por categoria (Cosméticos, Perfumaria, Higiene)
-- 🏆 Top 5 produtos mais vendidos em quantidade
-- 👤 Faturamento por vendedor e região
-- 🏪 Top 5 clientes por faturamento
+- 🏆 Produtos mais vendidos em quantidade
+- 👤 Faturamento por vendedor e participação percentual
+- 🏪 Top clientes por faturamento com cidade e estado
 - 📅 Evolução do faturamento mês a mês
 - 🗺️ Faturamento por região do Brasil
 
 ### Dashboard Power BI
 
-O dashboard contém:
-- **Cartão** — Faturamento total
-- **Gráfico de barras** — Faturamento por categoria
-- **Gráfico de linhas** — Evolução mensal do faturamento
-- **Gráfico de pizza** — Participação de cada vendedor no faturamento
+O dashboard conta com layout profissional, tema escuro, bordas e filtros interativos:
+
+**Visuais:**
+- **Cartão** — Faturamento Total
+- **Cartão** — Total de Itens Vendidos
+- **Gráfico de barras** — Faturamento por Categoria
+- **Gráfico de linhas** — Evolução Mensal
+- **Gráfico de pizza** — Participação por Vendedor
+- **Gráfico de barras** — Produtos Mais Vendidos
+- **Tabela** — Top Clientes com cidade e estado
+
+**Filtros interativos:**
+- 📅 Por período (data)
+- 📦 Por categoria
+- 👤 Por vendedor
 
 ### Tecnologias utilizadas
 
@@ -99,25 +109,35 @@ Built as part of my hands-on learning journey in data analysis, focusing on SQL,
 - 📦 500 automatically generated fictional sales records
 - 🔍 SQL queries for revenue, product, customer, and salesperson analysis
 - 📤 Data export to CSV
-- 📊 Interactive Power BI dashboard with 4 visuals
+- 📊 Interactive Power BI dashboard with visuals, filters, and professional layout
 
 ### Analyses performed
 
 - 💰 Total revenue
 - 📦 Revenue by category (Cosmetics, Perfumery, Hygiene)
-- 🏆 Top 5 best-selling products by quantity
-- 👤 Revenue by salesperson and region
-- 🏪 Top 5 customers by revenue
+- 🏆 Best-selling products by quantity
+- 👤 Revenue by salesperson and percentage share
+- 🏪 Top customers by revenue with city and state
 - 📅 Monthly revenue evolution
 - 🗺️ Revenue by Brazilian region
 
 ### Power BI Dashboard
 
-The dashboard includes:
-- **Card** — Total revenue
-- **Bar chart** — Revenue by category
-- **Line chart** — Monthly revenue evolution
-- **Pie chart** — Each salesperson's share of total revenue
+The dashboard features a professional layout, dark theme, borders, and interactive filters:
+
+**Visuals:**
+- **Card** — Total Revenue
+- **Card** — Total Items Sold
+- **Bar chart** — Revenue by Category
+- **Line chart** — Monthly Evolution
+- **Pie chart** — Salesperson Share
+- **Bar chart** — Best-Selling Products
+- **Table** — Top Customers with city and state
+
+**Interactive filters:**
+- 📅 By period (date)
+- 📦 By category
+- 👤 By salesperson
 
 ### Technologies
 
